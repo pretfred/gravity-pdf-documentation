@@ -4,6 +4,8 @@ sidebar_label: "Uploaded Images"
 description: "Use the Slim Image Cropper plugin for Gravity Forms to automatically included uploaded images in Core / Universal PDFs generated using Gravity PDF."
 ---
 
+**The Slim Image Cropper is not longer available.**
+
 By default, Gravity PDF will display all files uploaded using the [File Upload field](https://docs.gravityforms.com/file-upload/) as a bullet point list with links to those files. 
 
 <img src="https://resources.gravitypdf.com/uploads/2018/08/file-upload-field-default.png" alt="" width="916" height="129" class="size-full wp-image-23870" /> The File Upload Field displaying a list of uploaded files in Core / Universal PDFs
